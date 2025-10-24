@@ -42,10 +42,10 @@ export const Landing = () => {
         <Image src='/checklist.png' w={[48, 60]} alt='checklist logo' />
 
         <Text fontSize={['md', 'lg']}>
-          This project is part of a personal portfolio. You can find more projects like this on my
-          personal{' '}
-          <Link href='https://github.com/joangavelan' target='_blank' fontWeight='semibold'>
-            github account
+          A full-stack task management application developed by Ricky Liang. Check out the source
+          code on{' '}
+          <Link href='https://github.com/rickyliang5/TaskManagement.git' target='_blank' fontWeight='semibold'>
+            GitHub
           </Link>
           .
         </Text>
@@ -57,7 +57,7 @@ export const Landing = () => {
           <Button
             leftIcon={<AiOutlineGithub />}
             as='a'
-            href='https://github.com/joangavelan/donet'
+            href='https://github.com/rickyliang5/TaskManagement.git'
             target='_blank'
           >
             Github Repo

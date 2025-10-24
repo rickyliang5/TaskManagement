@@ -2,7 +2,7 @@
 
 A full-stack task management app built with React & Supabase.
 
-![App Screenshot](https://raw.githubusercontent.com/joangavelan/donet/main/public/donet.png)
+![App Screenshot](./public/donet.png)
 
 ## Table of contents
 
@@ -11,12 +11,12 @@ A full-stack task management app built with React & Supabase.
 - [How does it work?](#how-does-it-work)
 - [Demo](#demo)
 - [Technologies](#technologies)
-- [Lessons learned](#lessons-learned)
-- [Feedback](#feedback)
+- [Technical Highlights](#technical-highlights)
+- [Author](#author)
 
 ## Introduction
 
-I built this project (the last one in my portfolio) with the purpose of applying all of the knowledge acquired from my two previously developed projects [corteza](https://github.com/joangavelan/corteza) and [one plate](https://github.com/joangavelan/one-plate). The concept of this app is simple, a task management app where you can keep your tasks saved and organized in one place.
+Donet is a full-stack task management application designed to help you keep your tasks organized and accessible in one place. Built with modern web technologies, it provides an intuitive interface for managing boards, templates, and tasks with drag-and-drop functionality.
 
 ## Features
 
@@ -51,13 +51,15 @@ Here is the link to the working app: https://donet.vercel.app/
 - [Zod](https://zod.dev/) - TypeScript-first schema validation with static type inference.
 - [React Query](https://tanstack.com/query/v4/) - Powerful asynchronous state management for TS/JS, React, Solid, Vue and Svelte.
 
-## Lessons Learned
+## Technical Highlights
 
-- I learned that keeping things in sync with the backend isn't always an easy task. Maintaining the correct order of tasks when a user drags and drops a task between templates was the biggest challenge of this project. I had to send an update to the server for all the reordered tasks in both templates and could not wait for the response to arrive as the update on the frontend had to happen instantly. I managed to solve this by implementing optimistic updates with the help of React Query.
-- Although Supabase facilitates much of the work involving the backend so I can focus more on the frontend, I definitely had to dig into some of the concepts that come with it, such as database schemas, security rules, auth tokens, and more; giving me a clear picture of how everything is connected between both worlds.
-- Got fascinated by the way of working with Chakra UI, a component library based on a design system that you can customize to fit your needs. Tons of time saved by using this beautiful library.
-- React query was a game-changer for me, the way it simplifies data fetching, error handling, caching, and server state management made my workflow a lot easier.
+- **Optimistic Updates**: Implemented optimistic updates with React Query to maintain proper task ordering during drag-and-drop operations. This ensures instant UI updates while syncing with the backend asynchronously.
+- **Backend Integration**: Leverages Supabase for backend services including database schemas, security rules, and authentication tokens, providing a robust full-stack solution.
+- **Component Library**: Built with Chakra UI, a customizable component library based on a design system that accelerates development and ensures consistent styling.
+- **State Management**: Uses React Query for simplified data fetching, error handling, caching, and server state management throughout the application.
 
-## Feedback
+## Author
 
-If you wish to provide any feedback or just to have a little chat you can contact me through the following email: joangavelan@gmail.com.
+Developed by Ricky Liang.
+
+Repository: https://github.com/rickyliang5/TaskManagement.git
