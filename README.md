@@ -44,7 +44,7 @@ Here is the link to the working app: https://donet.vercel.app/
 
 - [Vite](https://vitejs.dev/) - Frontend tool to set up a development environment for frameworks like React.
 - [Supabase](https://supabase.com/) - The open source Firebase alternative designed to help developers spin up their backend.
-- [Chakra UI](https://chakra-ui.com/) - Simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+- [Chakra UI](https://chakra-ui.com/) - Simple, modular and accessible componenet library that gives you the building blocks you need to build your React applications.
 - [React Router](https://reactrouter.com/en/main/) - The standard library for client-side routing in React.
 - [React Beautiful DND](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React.
 - [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation.
