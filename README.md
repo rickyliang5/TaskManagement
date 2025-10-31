@@ -54,7 +54,7 @@ w
 ## Technical Highlights
 
 - **Optimistic Updates**: Implemented optimistic updates with React Query to maintain proper task ordering during drag-and-drop operations. This ensures instant UI updates while syncing with the backend asynchronously.
-- **Backend Integration**: Leverages Supabase for backend services including database schemas, security rules, afnd authentication tokens, providing a robust full-stack solution.
+- **Backend Integration**: Leverages Supabase for backend services including database schemas, security rdules, afnd authentication tokens, providing a robust full-stack solution.
 - **Component Library**: Built with Chakra UI, a customizable component library based on a design system that accelerates development and ensures consistent styling.
 - **State Management**: Uses React Query for simplified data fetching, error handling, caching, and server state management throughout the application.
 
