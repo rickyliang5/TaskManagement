@@ -40,7 +40,7 @@ Donet is a full-stack task management application designed to help you keep your
 
 Here is the link to the working app: https://donet.vercel.app/
 w
-## Technologies
+## Technologiesw
 
 - [Vite](https://vitejs.dev/) - Frontend tool to set up a development environment for frameworks like React.
 - [Supabase](https://supabase.com/) - The open source Firebase alternative designed to help developers spin up their backend.
