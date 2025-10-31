@@ -23,7 +23,7 @@ Donet is a full-stack task management application designed to help you keep your
 - Authentication with Supabase.
 - CRUD your boards, templates and tasks.
 - Drag and drop.
-- Light/Dark mode.
+- Light/Dark mode.rf
 - Responsive Design.
 
 ## How does it work?
