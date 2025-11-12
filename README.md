@@ -14,7 +14,7 @@ A full-stack task management app built with React & Supabase.
 - [Technical Highlights](#technical-highlights)
 - [Author](#author)
 
-## Introduction
+## Introduction.
 
 Donet is a full-stack task management application designed to help you keep your tasks organized and accessible in one place. Built with modern web technologies, it provides an intuitive interface for managing boards, templates, and tasks with drag-and-drop functionality.
 
