@@ -26,7 +26,7 @@ Donet is a full-stack task management application designed to help you keep your
 - Light/Dark mode.rf
 - Responsive Design.
 
-## How does it work?
+## How does it work?.
 
 1. Login or register an account if you don't have one.
 2. Once you've logged in to the app, create your first board.
