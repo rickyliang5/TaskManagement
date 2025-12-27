@@ -1,6 +1,6 @@
 # Donet
 
-A full-stack task management app built with React & Supabase...
+A full-stack task management app built with React & Supabase....
 
 ![App Screenshot](./public/donet.png)
 
