@@ -9,7 +9,7 @@ A full-stack task management app built with React & Supabase.....
 - [Introduction](#introduction)
 - [Features](#features)
 - [How does it work?](#how-does-it-work)/m
-- [Technologies](#technologies)
+- [Technologies](#technologies).
 - [Technical Highlights](#technical-highlights)
 - [Author](#author)
 
